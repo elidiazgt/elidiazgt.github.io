@@ -11,7 +11,7 @@ My main focus is to build health, education and finance tools.
 								<div class="4u">
 									<article class="item">
 										<a href="#" class="image fit">
-										<iframe src="//giphy.com/embed/83AWSYL8wRWJq?html5=true" width="480" height="360" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+									
 										</a>
 										<header>
 											<h3>MedicLife.co</h3>
@@ -22,7 +22,7 @@ My main focus is to build health, education and finance tools.
 								<div class="4u">
 									<article class="item">
 										<a href="#" class="image fit">
-										<iframe src="//giphy.com/embed/83AWSYL8wRWJq?html5=true" width="480" height="360" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+										
 										</a>
 										<header>
 											<h3>Arbegas</h3>
@@ -33,7 +33,7 @@ My main focus is to build health, education and finance tools.
 								<div class="4u">
 									<article class="item">
 										<a href="#" class="image fit">
-										<iframe src="//giphy.com/embed/83AWSYL8wRWJq?html5=true" width="480" height="360" frameBorder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+										
 										</a>
 										<header>
 											<h3>Oceano</h3>
