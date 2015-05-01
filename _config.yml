@@ -12,21 +12,16 @@ relative_permalinks: true
 # Setup
 title:            Eli Diaz
 tagline:          'Hi! I'm Eli'
-description:      'builder of useful tools to inspire,educate and empower people with data. <a href="https://twitter.com/mdo" target="_blank">@elidiazgt</a>.'
-url:              http://hyde.getpoole.com
+description:      'builder of useful tools to inspire, educate and empower people with data. <a href="https://twitter.com/mdo" target="_blank">@elidiazgt</a>.'
+url:              elidiaz.com
 baseurl:          /
 encoding:         UTF-8
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           https://github.com/poole/hyde
   
 
