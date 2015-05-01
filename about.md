@@ -3,9 +3,7 @@ layout: page
 title: About
 ---
 
-&lt;p class=&quot;message&quot;&gt;
-  I&#39;m a Software Web Developer with more than 5+ years of experience developing complex web based applications from back end to front end and solution Design.
-&lt;/p&gt;
+<p class="message"> I'm a Software Web Developer with more than 5+ years of experience developing complex web based applications from back end to front end and solution Design. </p>
 
 spanish history
 
