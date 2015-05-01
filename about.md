@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
->I'm a Software Web Developer with more than 5+ years of experience developing complex web based applications from back end to front end and solution Design. 
+> I'm a Software Web Developer with more than 5+ years of experience developing complex web based applications from back end to front end and solution Design. 
 
 spanish history
 
