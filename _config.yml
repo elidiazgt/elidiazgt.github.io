@@ -17,6 +17,9 @@ url:              elidiaz.com
 baseurl:          /
 encoding:         UTF-8
 
+github:
+   repo:           https://github.com/elidiazgt
+
 
 paginate:         5
 
