@@ -10,9 +10,9 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+title:            Eli Diaz
+tagline:          'Hi! I'm Eli'
+description:      'builder of useful tools to inspire,educate and empower people with data. <a href="https://twitter.com/mdo" target="_blank">@elidiazgt</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 encoding:         UTF-8
