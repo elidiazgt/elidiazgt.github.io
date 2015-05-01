@@ -12,7 +12,7 @@ relative_permalinks: true
 # Setup
 title:            Eli Diaz
 tagline:          'Eli Diaz'
-description:      'builder of useful tools to inspire, educate and empower people with data.'
+description:      'Full stack javascript developer, builder of useful tools to inspire, educate and empower people.'
 url:              elidiaz.com
 baseurl:          /
 encoding:         UTF-8
