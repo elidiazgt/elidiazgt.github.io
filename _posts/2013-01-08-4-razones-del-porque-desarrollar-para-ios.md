@@ -20,7 +20,7 @@ tags:
 
 DespuC)s de ser desarrollador por 5 aC1os (2 php y 3 .net) he decidido aventurarme a desarrollar aplicaciones mC3viles porque es un C!rea que tiene mucho mercado.
 
- [1]: http://www.flickr.com/photos/gilderic/3928423077/ "Spiderman at work (in LiC(ge Guillemins)"
+ [1]: https://farm3.staticflickr.com/2466/3928423077_4076e61fe8.jpg "Spiderman at work (in LiC(ge Guillemins)"
  [2]: http://www.flickr.com/photos/gilderic/3928423077/
  [3]: http://foter.com
  [4]: http://creativecommons.org/licenses/by-nc-nd/2.0/
