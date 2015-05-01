@@ -7,7 +7,6 @@ title: About
   I'm a Software Web Developer with more than 5+ years of experience developing complex web based applications from back end to front end and solution Design.
 </p>
 
-
 ###spanish history
 
 Inicie alrededor del año 2005 en este campo aprendiendo por mi cuenta sobre que eran los sitios web y a lo primero que me dedique fue a administrar un sitio web de eventos en mi ciudad, incursione en algunos programas de diseño y hacia trabajos freelance de ello.
@@ -23,4 +22,5 @@ A raíz de ese curso me gane una beca para estudiar ingeniería de sistemas en la 
 
 Dedico parte de mi tiempo libre en crear aplicaciones que me son útiles y/o que me sirven para aprender nuevas tecnologías.
 
-Thanks for reading!
+Thanks for reading! 
+:)
