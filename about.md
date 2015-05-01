@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-Software Web Developer with more than 5+ years of experience developing complex web based applications from back end to front end and solution Design. 
+<p class="message"> Software Web Developer with more than 5+ years of experience developing complex web based applications from back end to front end and solution Design. </p>
 
 spanish history
 
@@ -12,12 +12,10 @@ Luego aprendí de modo autodidacta conceptos generales de la web, construir estru
 
 A raíz de ese curso me gane una beca para estudiar ingeniería de sistemas en la universidad Galileo, la cual no termine.
 
-* Como programador me inicie en una startup basada en un modelo de red social de compras. 
-* Luego me desempeñe como analista .NET creando módulos personalizados para la aplicacion web de una entidad financiera.
-* Luego decidi cambiar mi rumbo y trabaje para una agencia digital en donde me inicie en el mundo de desarrollo movil.
-* En mi empleo actual he pasado de dar soporte a una aplicacion que gestiona multiples custom mobile webapps a crear la primera aplicacion movil, que es una version adaptada del producto mas grande de la empresa.
-
+Como programador me inicie en una startup basada en un modelo de red social de compras.
+Luego me desempeñe como analista .NET creando módulos personalizados para la aplicacion web de una entidad financiera.
+Luego decidi cambiar mi rumbo y trabaje para una agencia digital en donde me inicie en el mundo de desarrollo movil.
+En mi empleo actual he pasado de dar soporte a una aplicacion que gestiona multiples "custom mobile webapps" a crear la primera aplicacion movil, que es una version adaptada del producto mas grande de la empresa.
 Dedico parte de mi tiempo libre en crear aplicaciones que me son útiles y/o que me sirven para aprender nuevas tecnologías.
 
-Thanks for reading! 
-:)
+Thanks for reading! :)
