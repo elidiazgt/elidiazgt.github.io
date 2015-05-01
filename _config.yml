@@ -17,9 +17,10 @@ url:              elidiaz.com
 baseurl:          /
 encoding:         UTF-8
 
+#profiles
 github:
    repo:           https://github.com/elidiazgt
-
+npmjs:   https://www.npmjs.com/~elidiaz
 
 paginate:         5
 
