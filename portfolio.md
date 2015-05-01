@@ -6,39 +6,8 @@ title: Portfolio
 My main focus is to build health, education and finance tools.
 </p>
 
-
-<div class="row">
-								<div class="4u">
-									<article class="item">
-										<a href="#" class="image fit">
-									
-										</a>
-										<header>
-											<h3>MedicLife.co</h3>
-										</header>
-									</article>
-								
-								</div>
-								<div class="4u">
-									<article class="item">
-										<a href="#" class="image fit">
-										
-										</a>
-										<header>
-											<h3>Arbegas</h3>
-										</header>
-									</article>
-								
-								</div>
-								<div class="4u">
-									<article class="item">
-										<a href="#" class="image fit">
-										
-										</a>
-										<header>
-											<h3>Oceano</h3>
-										</header>
-									</article>
-								
-								</div>
-							</div>
+Codenames
+====
+* MedicLife
+* Arbegas
+* Oceano
