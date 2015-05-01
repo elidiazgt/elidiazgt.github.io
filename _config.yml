@@ -12,7 +12,7 @@ relative_permalinks: true
 # Setup
 title:            Eli Diaz
 tagline:          'Hi! I'm Eli'
-description:      'builder of useful tools to inspire, educate and empower people with data. <a href="https://twitter.com/mdo" target="_blank">@elidiazgt</a>.'
+description:      'builder of useful tools to inspire, educate and empower people with data.'
 url:              elidiaz.com
 baseurl:          /
 encoding:         UTF-8
