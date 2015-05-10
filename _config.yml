@@ -20,7 +20,7 @@ encoding:         UTF-8
 #profiles
 github:
    repo:           https://github.com/elidiazgt
-npmjs:   https://www.npmjs.com/~elidiaz
+npmjs:   https://www.npmjs.com/~elidiazgt
 
 paginate:         5
 
