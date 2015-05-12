@@ -9,3 +9,4 @@ categories:
   - Artículos
 ---
 # 
+##Modulo vs componente
