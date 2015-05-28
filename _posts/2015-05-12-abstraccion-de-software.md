@@ -13,7 +13,12 @@ La abstraccion es uno de las caracteristicas innatas del ser humano mejor desarr
 esta capacidad nos permite identificar reducir y aislar informacion, que luego 
 utilizamos para manejar los eventos que nos interesan.
 
-A la pregunta "Estare utilizando los terminos correctos a la hora de estructurar este proyecto?", vinieron horas de navegacion que me llevaron a estas exelentes graficas.
+A la pregunta "Estare utilizando los terminos correctos a la hora de estructurar este proyecto?", vinieron horas de navegacion que me llevaron a las exelentes graficas que les comparto mas abajo.
+
+No tenia idea que existieran tantas y cada una de ellas satisface una necesidad especifica, que puede ser replicada en cualquier proyecto que lo necesite.
+
+Composite, prototype y singleton son los que mas me ha tocado observar donde he trabajado.
+
 
 ##Listado de patrones de diseno
 ![Alt text](http://41.media.tumblr.com/d79ae21b90fe235d4b34dc6d9626b628/tumblr_noysmdvEDF1tb3anfo1_1280.jpg "Patrones de diseno 1")
