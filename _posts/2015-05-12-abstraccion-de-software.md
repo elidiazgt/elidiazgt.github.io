@@ -19,6 +19,8 @@ No tenia idea que existieran tantas y cada una de ellas satisface una necesidad 
 
 Composite, prototype y singleton son los que mas me ha tocado observar donde he trabajado.
 
+Me encontre con este articulo muy bueno (ingles) que trata sobre el [Bridge Pattern](http://simpleprogrammer.com/2015/06/08/design-patterns-simplified-the-bridge-pattern/)
+
 
 ##Listado de patrones de diseno
 ![Alt text](http://41.media.tumblr.com/d79ae21b90fe235d4b34dc6d9626b628/tumblr_noysmdvEDF1tb3anfo1_1280.jpg "Patrones de diseno 1")
